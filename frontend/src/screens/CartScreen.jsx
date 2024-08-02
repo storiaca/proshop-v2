@@ -38,7 +38,7 @@ const CartScreen = () => {
         <h1 style={{ marginBottom: "2px" }}>Shopping Cart</h1>
         {cartItems.length === 0 ? (
           <Message>
-            You cart is empty <Link to="/">Go Back</Link>
+            Your cart is empty <Link to="/">Go Back</Link>
           </Message>
         ) : (
           <ListGroup variant="flush">

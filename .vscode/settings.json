@@ -1,0 +1,5 @@
+{
+  "traycer.enableCommentsHighlighting": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "formulahendry.auto-rename-tag"
+}
