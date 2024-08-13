@@ -20,8 +20,7 @@
     "cookie-parser": "^1.4.6",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.4.3",
-    "react-toastify": "^10.0.5"
+    "mongoose": "^8.4.3"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
