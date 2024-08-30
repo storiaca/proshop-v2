@@ -117,6 +117,7 @@ const OrderScreen = () => {
                 </Row>
               </ListGroup.Item>
               {/* PAY ORDER PLACEHOLDER */}
+              {/* MARK AS DELIEVERED PLACEHOLDER */}
             </ListGroup>
           </Card>
         </Col>
